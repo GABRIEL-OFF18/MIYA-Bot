@@ -197,8 +197,8 @@ href="https://home.akirax.net"><img src="https://raw.githubusercontent.com/The-K
 ## 🌷 Desarrolladora Principal
 
 <p align="center">
-  <a href="https://github.com/Speed3xz">
-    <img src="https://github.com/speed3xz.png" width="130" height="130" alt="Speed3xz 🎀"/>
+  <a href="https://github.com/Arlette-Xz">
+    <img src="https://github.com/Arlette-Xz.png" width="130" height="130" alt="Speed3xz 🎀"/>
     <br>
     <strong>Speed3xz 🎀</strong>
   </a>
